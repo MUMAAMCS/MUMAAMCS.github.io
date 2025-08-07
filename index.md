@@ -17,7 +17,6 @@ If you are interested in any aspect of me, I am always open to discussions and a
 
 ## Research Interests
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
 - Machine Learning
 - Semantic Communication
 - Large Language Model Agents
