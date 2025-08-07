@@ -8,11 +8,10 @@ layout: page
 
 Here is **Yuze Zhao (赵玉泽)**.<br>
 
-I am a graduate student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
+I am a Master student at the Beijing Normal University, supervised by [Prof. Yuan Wen](https://mathscinet.ams.org/mathscinet/MRAuthorID/743517) and [Prof. Dachun Yang](https://mathscinet.ams.org/mathscinet/MRAuthorID/317762). 
+Prior to BNU, I have worked on applied mathematics under the guidance of [Prof. Junfeng Li](https://mathscinet.ams.org/mathscinet/MRAuthorID/756590) and [Dr. Suqing Wu](https://mathscinet.ams.org/mathscinet/MRAuthorID/1211260). 
 
-Prior to Cambridge, I have worked on wireless networks and cybersecurity under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024.
-
-If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **hc663 [at] cam.ac.uk**
+If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **yuzezhao [at] mail.bnu.edu.cn**
 
 ---
 
