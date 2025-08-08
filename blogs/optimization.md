@@ -26,7 +26,7 @@ PS:当拉格朗日函数是凸函数的时候局部最小值是全局最小值�
 
 ## 对偶命题
 
-### 对偶命题的关键是找出变量与对偶变量的关系，然后带入Largrange函数即可。而他们的关系由$\frac{\partial \mathcal L}{\partial x}$给出。
+### 对偶命题的关键是找出变量与对偶变量的关系，然后带入Largrange函数即可。而他们的关系由 $\frac{\partial \mathcal L}{\partial x}$ 给出。
 
 
 
