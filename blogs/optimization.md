@@ -1,3 +1,9 @@
+---
+layout: page
+permalink: /blogs/optimization/index.html
+title: optimization
+---
+
 # 凸优化问题
 
 ## 拉格朗日乘子法
