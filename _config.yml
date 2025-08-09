@@ -49,8 +49,8 @@ links:
     url: /hobbies/
   - title: Blogs
     url: /blogs/
-  - title: 中文
-    url: /cn/
+  # - title: 中文
+  #   url: /cn/
 
 
 # --------------------------------------------------

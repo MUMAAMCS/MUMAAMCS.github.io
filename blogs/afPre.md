@@ -1,3 +1,9 @@
+---
+layout: page
+permalink: /blogs/afPre/index.html
+title: afPre
+---
+
 # 什么是泛函分析
 1. 泛函分析就是无穷维空间上的分析（数学分析或高等代数）
 2. 起源（背景）：数学物理中具体的分析问题
@@ -11,4 +17,6 @@
  1. 多项式 $P[0,1]$ $\|P\|_{P[0,1]}:=\max_{t\in[0,1]}{| P(t)|}$ , 其完备化为 $C[0,1]$ 
  2. $\|f\|_{C[0,1]}:=\int^1_{0}|f|\, dx$ , 其完备化为 $L^1[0,1]$ 
 ## 算子范数的定义
-$$\|T\|_{\mathcal{L}(\mathcal X,\ \mathcal Y)}=\sup_{x\in\mathcal X\backslash\{0\} }\frac{\|T\|}{2}$$
+
+$$
+\|T\|_{\mathcal{L}(\mathcal X,\ \mathcal Y)}=\sup_{x\in\mathcal X\backslash\{0\} }\frac{\|T\|}{2}$$
