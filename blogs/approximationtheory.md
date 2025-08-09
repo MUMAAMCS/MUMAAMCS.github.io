@@ -4,7 +4,7 @@ permalink: /blogs/approximationtheory/index.html
 title: approximationtheory
 ---
 
-# 确定 $\int^1_{-1}f(x)\ dx=A_0x_0+A_1x_1$ 拥有最高的代数精度
+## 确定 $\int^1_{-1}f(x)\ dx=A_0x_0+A_1x_1$ 拥有最高的代数精度
 
 只需要解决方程
 
